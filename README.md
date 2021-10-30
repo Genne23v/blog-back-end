@@ -1,6 +1,7 @@
 # Web Server for Blog Site
 
-\*This is from LinkedIn Learning React: Creating and Hosting a Full-stack Site.
+#### \*This is from LinkedIn Learning React: Creating and Hosting a Full-stack Site.
+
 This express web server uses local MongoDB storage for blog articles, user comments and upvotes. React front-end blog site is HERE.
 
 #
