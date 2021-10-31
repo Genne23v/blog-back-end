@@ -2,7 +2,7 @@
 
 #### \*This is from LinkedIn Learning React: Creating and Hosting a Full-stack Site.
 
-This express web server uses local MongoDB storage for blog articles, user comments and upvotes. React front-end blog site is HERE.
+This express web server uses local MongoDB storage for blog articles, user comments and upvotes. React front-end blog site is [HERE](https://github.com/Genne23v/react-blog).
 
 #
 
